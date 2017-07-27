@@ -1,2 +1,0 @@
-model_checkpoint_path: "Weights_and_Biases.ckpt"
-all_model_checkpoint_paths: "Weights_and_Biases.ckpt"
